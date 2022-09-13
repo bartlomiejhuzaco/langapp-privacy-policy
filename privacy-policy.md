@@ -1,3 +1,5 @@
+### Polityka Prywatności
+
 1. Aplikacja nie gromadzi ani nie udostępnia danych osobowych użytkownika.
 2. Podczas korzystania z aplikacji są zapisywane tylko tymczasowe dane na urządzeniu użytkownika.
 3. Aplikacja nie zbiera danych statystycznych.
